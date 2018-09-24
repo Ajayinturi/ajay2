@@ -2,7 +2,7 @@
 <body>
 
 <h1> SSS </h1>
-<h2> ajjSSS </h2>
+<h1> ajjSSS </h1>
 
 
 </html>
